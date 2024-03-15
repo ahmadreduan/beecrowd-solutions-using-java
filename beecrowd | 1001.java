@@ -6,6 +6,7 @@ class Main{
         Scanner sc=new Scanner(System.in);
         a=sc.nextInt();
         b=sc.nextInt();
+        
         int c=a+b;
         System.out.println("X = "+c);
     }
